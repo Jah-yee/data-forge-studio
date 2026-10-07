@@ -17,7 +17,7 @@ from PySide6.QtWidgets import (
     QPushButton, QSizePolicy, QSplitter, QApplication
 )
 from PySide6.QtCore import (
-    Qt, Signal, QTimer, QEvent, QSize
+    Qt, Signal, QTimer, QEvent, QSize, QColor
 )
 from PySide6.QtGui import QCursor, QEnterEvent, QColor
 
